@@ -1,0 +1,16 @@
+.main-hero {
+    background-image: url("../img/xtm-hero-main.jpg") !important;
+}
+
+.navbar-brand, .navbar-brand>img {
+    width: 9rem;
+}
+
+.language-selection a {
+    font-size: 10pt;
+    padding: 0.6em;
+    color: white;
+}
+.bg-dark {
+    background-color: #2D333A!important
+}
